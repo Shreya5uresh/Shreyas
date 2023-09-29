@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Suresh</h1>
-<h3 align="center">**Personal Statement** I am an enthusiastic data-driven thinker with an MSc in Business Analytics and a strong track record in data analysis. I excel in translating complex data into actionable insights. My experience as a Business Development Manager demonstrates my ability to apply data-driven strategies in real-world scenarios. I'm passionate about continuous learning and making a positive impact, both professionally and in my community. My goal is to leverage my skills and knowledge to drive meaningful change and growth.rom India</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://iconscout.com/lottie/data-analysis-4179002)")
-
+<h3 align="center">I am an enthusiastic data-driven thinker with an MSc in Business Analytics and a strong track record in data analysis. I excel in translating complex data into actionable insights. My experience as a Business Development Manager demonstrates my ability to apply data-driven strategies in real-world scenarios. I'm passionate about continuous learning and making a positive impact, both professionally and in my community. My goal is to leverage my skills and knowledge to drive meaningful change and growth.rom India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya5uresh&label=Profile%20views&color=0e75b6&style=flat" alt="shreya5uresh" /> </p>
 
